@@ -29,7 +29,7 @@ const Footer = () => {
             <ul className="space-y-3">
               <li>
                 <a href="#metodo" className="text-muted-foreground hover:text-accent transition-colors">
-                  Método Órbita™
+                  Método Órbita
                 </a>
               </li>
               <li>
