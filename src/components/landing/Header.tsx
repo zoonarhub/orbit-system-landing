@@ -5,7 +5,7 @@ import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import logo from "@/assets/logo-zoonar.png";
 
 const navItems = [
-  { label: "Método Órbita™", href: "#metodo" },
+  { label: "Método Órbita", href: "#metodo" },
   { label: "Como Funciona", href: "#pilares" },
   { label: "Entregas", href: "#entregas" },
   { label: "Jornada", href: "#jornada" },
@@ -56,7 +56,7 @@ const Header = () => {
               rel="noopener noreferrer"
             >
               <Button className="bg-accent hover:bg-gold-hover text-primary font-semibold px-6">
-                Diagnóstico Órbita™
+                Diagnóstico Órbita
               </Button>
             </a>
           </div>
@@ -86,7 +86,7 @@ const Header = () => {
                   className="mt-4"
                 >
                   <Button className="w-full bg-accent hover:bg-gold-hover text-primary font-semibold">
-                    Diagnóstico Órbita™
+                    Diagnóstico Órbita
                   </Button>
                 </a>
               </nav>
