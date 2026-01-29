@@ -23,7 +23,7 @@ const TargetSection = () => {
         {/* Title */}
         <div className="text-center mb-16">
           <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl font-bold text-primary">
-            Para quem é o <span className="text-accent">Método Órbita™</span>
+            Para quem é o <span className="text-accent">Método Órbita</span>
           </h2>
         </div>
 
