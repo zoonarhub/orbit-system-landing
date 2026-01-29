@@ -27,7 +27,7 @@ const Hero = () => {
 
           {/* Subheadline */}
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-10 animate-fade-up" style={{ animationDelay: "0.2s" }}>
-            A Zoonar implementa o Método ™, um sistema completo que coloca clínicas
+            A Zoonar implementa o Método Órbita, um sistema completo que coloca clínicas
             médicas em crescimento estável, previsível e organizado.
           </p>
 
