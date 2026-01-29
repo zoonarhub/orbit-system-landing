@@ -40,7 +40,7 @@ const PillarsSection = () => {
         {/* Title */}
         <div className="text-center mb-16">
           <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl font-bold text-primary mb-4">
-            Os 5 Pilares do <span className="text-accent">Método Órbita™</span>
+            Os 5 Pilares do <span className="text-accent">Método Órbita</span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Um sistema integrado onde cada pilar sustenta o crescimento da sua clínica
