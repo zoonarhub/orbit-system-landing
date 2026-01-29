@@ -31,7 +31,7 @@ const FinalCTA = () => {
               size="lg"
               className="bg-accent hover:bg-gold-hover text-primary font-bold px-10 py-7 text-lg group animate-pulse-glow"
             >
-              Solicitar Diagnóstico Órbita™
+              Solicitar Diagnóstico Órbita
               <ArrowRight className="ml-2 h-5 w-5 transition-transform group-hover:translate-x-1" />
             </Button>
           </a>
