@@ -14,13 +14,13 @@ const MethodSection = () => {
 
           {/* Title */}
           <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl font-bold text-primary text-center mb-8">
-            O que é o <span className="text-accent">Método Órbita™</span>
+            O que é o <span className="text-accent">Método Órbita</span>
           </h2>
 
           {/* Content */}
           <div className="space-y-6 text-center">
             <p className="text-lg md:text-xl text-foreground leading-relaxed">
-              O Método Órbita™ é um sistema proprietário criado para clínicas que desejam
+              O Método Órbita é um sistema proprietário criado para clínicas que desejam
               crescer sem perder controle, qualidade e organização.
             </p>
             
