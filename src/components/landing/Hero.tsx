@@ -16,7 +16,7 @@ const Hero = () => {
           {/* Badge */}
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full border border-accent/30 bg-accent/5 mb-8 animate-fade-up">
             <span className="w-2 h-2 rounded-full bg-accent animate-pulse" />
-            <span className="text-sm font-medium text-accent">Método Órbita™</span>
+            <span className="text-sm font-medium text-accent">Método Órbita</span>
           </div>
 
           {/* Headline */}
@@ -27,7 +27,7 @@ const Hero = () => {
 
           {/* Subheadline */}
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-10 animate-fade-up" style={{ animationDelay: "0.2s" }}>
-            A Zoonar implementa o Método Órbita™, um sistema completo que coloca clínicas
+            A Zoonar implementa o Método ™, um sistema completo que coloca clínicas
             médicas em crescimento estável, previsível e organizado.
           </p>
 
