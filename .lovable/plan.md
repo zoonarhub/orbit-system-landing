@@ -79,5 +79,5 @@ Landing page premium para a agência ZOONAR, focada em converter clínicas médi
 ---
 
 ## Integrações
-- WhatsApp: wa.me/55219694446745
+- WhatsApp: wa.me/219694446745
 - Formulário: form.respondi.app/EdimbhML
