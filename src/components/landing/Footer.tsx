@@ -90,7 +90,7 @@ const Footer = () => {
             © {currentYear} ZOONAR. Todos os direitos reservados.
           </p>
           <p className="text-sm text-muted-foreground">
-            Método Órbita™ é uma marca registrada
+            Método Órbita é uma marca registrada
           </p>
         </div>
       </div>
