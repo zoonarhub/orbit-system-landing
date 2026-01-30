@@ -17,7 +17,7 @@ const FinalCTA = () => {
 
           {/* Subtext */}
           <p className="text-lg md:text-xl text-white/80 mb-10 max-w-2xl mx-auto">
-            Solicite o Diagnóstico Órbita™ e descubra se sua clínica está pronta
+            Solicite o Diagnóstico Órbita e descubra se sua clínica está pronta
             para um crescimento previsível e organizado.
           </p>
 
