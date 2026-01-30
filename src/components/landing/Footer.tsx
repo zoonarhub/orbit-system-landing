@@ -17,7 +17,7 @@ const Footer = () => {
             />
             <p className="text-muted-foreground max-w-md mb-6">
               Especialistas em sistemas de crescimento previsível para clínicas médicas e estéticas.
-              Método Órbita™ - Crescimento organizado e sustentável.
+              Método Órbita - Crescimento organizado e sustentável.
             </p>
           </div>
 
